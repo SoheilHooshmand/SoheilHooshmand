@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* 🔭 I’m currently working on WebProjectExploreRestFremewok
+* 🔭 I’m currently working on WebProjectExploreRestFramework
 * 🌱 I’m currently learning Django
 * 📫 How to reach me: soheilhooshmand4444@gmail.com
 
