@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 * 🔭 I’m currently working on WebProjectExploreRestFremewok
 * 🌱 I’m currently learning Django
 * 📫 How to reach me: soheilhooshmand4444@gmail.com
+
+ ### :hammer_and_wrench: Languages and Tools :
+ <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
