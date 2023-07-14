@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 * 🔭 I’m currently working on WebProjectExploreRestFramework
-* 🌱 I’m currently learning Django
+* 🌱 I’m currently learning Django and Docker
 * 📫 How to reach me: soheilhooshmand4444@gmail.com
 
  ### :hammer_and_wrench: Languages and Tools :
