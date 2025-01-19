@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>&nbsp;
+   <img src="https://camo.githubusercontent.com/98430a98d84e60e050596eadf021d418b5e1014b54a73b77d104a6d3c01d6c6a/68747470733a2f2f646f63732e63656c657279712e6465762f656e2f6c61746573742f5f696d616765732f63656c6572792d62616e6e65722d736d616c6c2e706e67" width="40" height="40"/>&nbsp;
 
 
 
